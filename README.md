@@ -61,5 +61,8 @@ python run_attack_cwl2.py \
   --checkpoint_path=inception_v3_google-1a9a5a14.pth
 ```
 
-
+*** TODO 
+1. Build environment
+2. Run test example
+3. Location spicified
 
